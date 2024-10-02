@@ -55,7 +55,7 @@ La arquitectura del proyecto sigue un enfoque monolítico modular, que permite m
 
 3. Configurar las variables de entorno:
 
-   - En el `.env` llenar las variables necesarias, incluyendo las claves secretas de JWT.
+   - Copiar el archivo `.env.example` a `.env` y llenar las variables necesarias, incluyendo las claves secretas de JWT.
 
 4. Construcción de la aplicación:
 
